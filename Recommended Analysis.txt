@@ -1,0 +1,10 @@
+Recommended Analysis
+How does the overall flight volume vary by month? By day of week? 
+
+What percentage of flights in experienced a departure delay in 2015? Among those flights, what was the average delay time, in minutes?
+
+How does the % of delayed flights vary throughout the year? What about for flights leaving from Boston (BOS) specifically?
+
+How many flights were cancelled in 2015? What % of cancellations were due to weather? What % were due to the Airline/Carrier?
+
+Which airlines seem to be most and least reliable, in terms of on-time departure?
